@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Build output
+dist/
+build/
+
+
+# IDE and editor settings
+.vscode/
+
+# Temporary files
+tmp/
+temp/
+
+
+# TypeScript cache
+*.tsbuildinfo
+.vercel
